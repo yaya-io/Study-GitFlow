@@ -8,18 +8,9 @@
 
 ## 参考書籍、引用書籍
 * [GitLab 実践ガイド DevOpsワークフローの導入と運用](https://www.amazon.co.jp/GitLab%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89-impress-top-gear%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E5%8C%97%E5%B1%B1-ebook/dp/B079DL362C)
-  
-## drawioについて
-[draw\.io](https://www.draw.io/)
-
-* ブラウザ上で各種フローや図を描くのに非常に便利
-* 様々なアイコンやテンプレートを利用可能
-* AWS系のアイコン等もあり
-* SVG出力可(png,jpeg,pdfなども）
-* Github,GoogleDrive,Dropboxなど各種サービスと直接連携
-データの保存やエクスポート、インポートが可能
-
+ 
 書籍の説明図をdrawioで写経しています。
+[draw.ioについて](https://github.com/yaya-io/Study-drawio-1/blob/master/README.md)
 
 ## GitHubFlow
 ![](./png/GitHubFlow.png)
